@@ -1,1 +1,1 @@
-# css
+This repository is all about css practice.
